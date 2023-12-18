@@ -1,0 +1,52 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to Ultimate Ark",
+                    "text1": "The goal is to beat the game, map by map, the way that Ark was intended to be played.\n\nAscension will only happen after beating the Tek Cave or Alpha Boss (and the DLCs are released).\n\nPlayers can work together to progress (be in the same base, share tames, help each other breed lines) but should beat the map first on their own.\n\nGood luck, survivor.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Community",
+                    "title1": "Locations of Interest",
+                    "text1": "",
+                    "title2": "Cave Locations",
+                    "text2": "",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/jcDmmkWJvX"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Unity/BSL",
+                    "url": "https://discord.gg/qXCZztv4jW"
+                }
+            }
+        ]
+    }
+}
