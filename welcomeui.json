@@ -2,9 +2,9 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": false,
+            "HideIcon": true,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "IconURL": "https://i.imgur.com/t0hKE2O.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Welcome to Ultimate Ark",
-                    "text1": "The goal is to beat the game, map by map, the way that Ark was intended to be played.\n\nAscension will only happen after beating the Tek Cave or Alpha Boss (and the DLCs are released).\n\nPlayers can work together to progress (be in the same base, share tames, help each other breed lines) but should beat the map first on their own.\n\nGood luck, survivor.",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                    "title1": "Welcome to the Unleashed Ark",
+                    "text1": "The goal is to beat the game, map by map, the way that Ark was intended to be played. Except for this map; explore and play as you like!\n\nAscension will only happen after beating the Tek Cave or Alpha Boss (and the DLCs are released).\n\nPlayers can work together to progress (be in the same base, share tames, help each other breed lines) but should beat the map first on their own.\n\nGood luck, survivor.",
+                    "imageurl": "https://i.imgur.com/IvyXrPy.png"
                 }
             },
             {
@@ -30,7 +30,7 @@
                     "text1": "",
                     "title2": "Cave Locations",
                     "text2": "",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                    "imageurl": "https://d.furaffinity.net/art/indiwolf/1510592168/1510592168.indiwolf_thylacoleo.png"
                 }
             }
         ],
