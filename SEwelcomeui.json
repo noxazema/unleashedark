@@ -1,0 +1,54 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/t0hKE2O.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to the Unleashed Ark",
+                    "text1": "The Unleashed Ark is a no-wipe series of PvEvP servers with the working adult in mind. Our rates and mods are arranged for people that have busy lives while still being challenging.\n\n
+PvP is COMPLETELY OPTIONAL! Raids must be consented to by all parties and scheduled within our Discord server. Players found violating this rule will be banned outright on the first offence. This is to ensure that players that only want to play PvE can do so comfortably. With that said, please keep all turrets focused on WILD ONLY creatures unless you have PVP intent.\n\n
+Good luck out there, survivor.",
+                    "imageurl": "https://cdn.survivetheark.com/uploads/monthly_2024_03/ASA_ScorchedEarth_Wallpaper_2560x1440.png.911fd6f59becdf0d14f1b0df4b6e417a.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Community",
+                    "title1": "Locations of Interest",
+                    "text1": "",
+                    "title2": "Cave Locations",
+                    "text2": "",
+                    "imageurl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/scene-from-scorched-earth-from-ark-survival-ascended.jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/jcDmmkWJvX"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Unity/BSL",
+                    "url": "https://discord.gg/qXCZztv4jW"
+                }
+            }
+        ]
+    }
+}
