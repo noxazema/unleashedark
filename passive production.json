@@ -247,7 +247,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Arkology_yiLing/Arkology_YiLing_Character_BP.Arkology_YiLing_Character_BP'"", 
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Arkology_yiLing/Arkology_YiLing_Character_BP.Arkology_YiLing_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 300.00,
@@ -272,7 +272,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Arkology_Achatina/Arkology_Achatina_Character_BP.Arkology_Achatina_Character_BP'"", 
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Arkology_Achatina/Arkology_Achatina_Character_BP.Arkology_Achatina_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 60.00,
@@ -336,7 +336,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/Abberant/AbbThoraxSpider_Character_BP.AbbThoraxSpider_Character_BP'"", 
+{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/Abberant/AbbThoraxSpider_Character_BP.AbbThoraxSpider_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 240.00,
@@ -350,7 +350,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Snow/SnowThoraxSpider_Character_BP.SnowThoraxSpider_Character_BP'"", 
+{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Snow/SnowThoraxSpider_Character_BP.SnowThoraxSpider_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 240.00,
@@ -364,7 +364,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Jungle/JungleThoraxSpider_Character_BP.SnowThoraxSpider_Character_BP'"", 
+{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Jungle/JungleThoraxSpider_Character_BP.SnowThoraxSpider_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 240.00,
@@ -378,7 +378,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/CuteThoraxSpider_Character_BP.CuteThoraxSpider_Character_BP'"", 
+{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/CuteThoraxSpider_Character_BP.CuteThoraxSpider_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 240.00,
@@ -392,7 +392,7 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP'"", 
+{"dinoType": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 240.00,
@@ -476,5 +476,3 @@
                 }
             ]
         }
-    ]
-}
