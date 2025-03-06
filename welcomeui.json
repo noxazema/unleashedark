@@ -34,7 +34,7 @@
                 }
             },
             {
-                "tab1": {
+                "tab3": {
                     "layout": 1,
                     "buttontext": "FAQ",
                     "title1": "FAQ",
@@ -43,7 +43,7 @@
                 }
             },
             {
-                "tab1": {
+                "tab4": {
                     "layout": 1,
                     "buttontext": "Player List",
                     "title1": "Online Player List",
