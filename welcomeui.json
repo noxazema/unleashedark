@@ -3,8 +3,8 @@
         "settings": {
             "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/t0hKE2O.png",
+            "HideIconAfter": 40,
+            "IconURL": "https://i.imgur.com/USXHDcO.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -17,18 +17,8 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Welcome to the Unleashed Ark",
-                    "text1": "WHAT IS THE ULTIMATE ARK CHALLENGE?/n
-The Ultimate Ark Challenge is about progression; You, survivor, will go from waking up naked on the beach to saving the Earth and defeating all threats across every Ark story DLC, starting on the Island. We challenge you to defeat the Arks, one map at the time, the way that the game was intended to be played. In other words, to progress to Scorched Earth, you must completely beat the Island by defeating all 3 bosses and the overseer on all three difficulties. Once you transfer to the next map, you cannot go back to the previous one - you're locked in the next one in the series until you ascend on that map in all difficulties (gamma, beta, alpha). However, for the Overseer fight, players are only required to defeat the Alpha Overseer (though defeating all 3 will earn kudos and maybe some other goodies)./n/n
-Player are able to select a set number of tames to keep from every map, but will not be able to use them until they reach Extinction - meaning that you'd be starting both Scorched and Aberration from scratch. No new player kits and no starter tames; this challenge is meant to be kept as vanilla as possible. The challenge can be completed solo or with friends - the choice is yours./n/n
-Presently, the server is PVE so that players and tribes can work together/collaborate freely - that means there will be additional challenges when it comes to leveling your creatures and your character. Discord is REQUIRED for this challenge, as players will not be able to progress without posting about their progression with proof (screenshots)./n/n
-
-RATES & LIMITATIONS/n
-XP - 1x/n
-Harvest - 3x/n
-Baby mature - 400/n
-Egg hatch - 30/n
-Same breeding timers as the cluster.",
+                    "title1": "Welcome to RAVENHALL'S Ultimate Ark Challenge!",
+                    "text1": "WHAT IS THE ULTIMATE ARK CHALLENGE?/nThe Ultimate Ark Challenge is about progression; You, survivor, will go from waking up naked on the beach to saving the Earth and defeating all threats across every Ark story DLC, starting on the Island. We challenge you to defeat the Arks, one map at the time, the way that the game was intended to be played. In other words, to progress to Scorched Earth, you must completely beat the Island by defeating all 3 bosses and the overseer on all three difficulties. Once you transfer to the next map, you cannot go back to the previous one - you're locked in the next one in the series until you ascend on that map in all difficulties (gamma, beta, alpha). However, for the Overseer fight, players are only required to defeat the Alpha Overseer (though defeating all 3 will earn kudos and maybe some other goodies)./n/nPlayers are able to select a set number of tames to keep from every map, but will not be able to use them until they reach Extinction - meaning that you'd be starting both Scorched and Aberration from scratch. No new player kits and no starter tames; this challenge is meant to be kept as vanilla as possible. The challenge can be completed solo or with friends - the choice is yours./n/nPresently, the server is PVE so that players and tribes can work together/collaborate freely - that means there will be additional challenges when it comes to leveling your creatures and your character. Discord is REQUIRED for this challenge, as players will not be able to progress without posting about their progression with proof (screenshots)./n/nRATES & LIMITATIONS/nXP - 1x/nHarvest - 3x/nBaby mature - 400/nEgg hatch - 30/nSame breeding timers as the cluster.",
                     "imageurl": "https://i.imgur.com/uUYcPMt.jpeg"
                 }
             },
@@ -37,34 +27,9 @@ Same breeding timers as the cluster.",
                     "layout": 2,
                     "buttontext": "Progression",
                     "title1": "Progression",
-                    "text1": "When you defeat each boss, you'll need to take a screenshot of you going into the arena and a final screenshot that captures the "BOSS has been defeated!" message, and post it up in #player-progression. That channel serves as proof of your journey's progress./n/n
-
-So what happens when you defeat a map? First, after you ascend for the last time, you'll need to make a list of creatures to keep. Once your list is complete, post it in #creature-selection for Velik's approval. When your creature list is approved, you are to hand over the listed creatures to Velik, who will then transfer to another map and store them in an Admin only structure within a vault with your name on it. Afterwards, transfers will be opened on the next map, you'll be provided with the password to the next server, and you'll be able to transfer. ",
+                    "text1": "When you defeat each boss, you'll need to take a screenshot of you going into the arena and a final screenshot that captures the "BOSS has been defeated!" message, and post it up in #player-progression. That channel serves as proof of your journey's progress./n/nSo what happens when you defeat a map? First, after you ascend for the last time, you'll need to make a list of creatures to keep. Once your list is complete, post it in #creature-selection for Velik's approval. When your creature list is approved, you are to hand over the listed creatures to Velik, who will then transfer to another map and store them in an Admin only structure within a vault with your name on it. Afterwards, transfers will be opened on the next map, you'll be provided with the password to the next server, and you'll be able to transfer.",
                     "title2": "Creature Selection",
-                    "text2": "From the Island, you are allowed to keep the following:/n
-- A breeding pair for 8 mutation lines you started (separated by species)/n
---- EX: If you have 4 mutation lines for Argentavis (HP, STAM, WT & M), all four of those lines will count as one towards the 8 Mutation Line counter since they're of the same species/n
-- One stack creature for every mutation line/n
---- In other words, if you got up to 15HP on rexes, you're allowed to bring that 15HP mutation rex for breeding but none of the ones before it/n
---- If there are multiple lines for specific stat mutations, you can bring the max stack creature from each stack/n
---- Any finalized color mutes for mutation lines /n
-- One shoulder pet/n
-- 3 creatures of your choosing/n
-- 1 full gene scanner PER TRIBE/n
-- 4 BPs of your choosing PER TRIBE/n
-- 1 chibi/n/n
-
-For the rest of the maps onward, you are allowed to bring:/n
-- One shoulder pet/n
-- 3 mutation lines (breeding pair, stack male & color stack - same as above)/n
-- 3 creatures of your choosing/n
-- 1 full gene scanner PER TRIBE/n
-- 1 BP of your choosing PER TRIBE/n
-- the same chibi/n/n
-
-But here's the catch: You cannot use any of these creatures until you get to Extinction./n
-That means that for Scorched Earth and Aberration, you'll be starting over with nothing but your same character./n
-From Extinction onward, we're allowed to have all of our creatures from previous maps. In the meantime, don't worry - your creatures will be kept safe in a vault with your name on it on another map until you get there.",
+                    "text2": "From the Island, you are allowed to keep the following:/n- A breeding pair for 8 mutation lines you started (separated by species)/n--- EX: If you have 4 mutation lines for Argentavis (HP, STAM, WT & M), all four of those lines will count as one towards the 8 Mutation Line counter since they're of the same species/n- One stack creature for every mutation line/n--- In other words, if you got up to 15HP on rexes, you're allowed to bring that 15HP mutation rex for breeding but none of the ones before it/n--- If there are multiple lines for specific stat mutations, you can bring the max stack creature from each stack/n--- Any finalized color mutes for mutation lines /n- One shoulder pet/n- 3 creatures of your choosing/n- 1 full gene scanner PER TRIBE/n- 4 BPs of your choosing PER TRIBE/n- 1 chibi/n/nFor the rest of the maps onward, you are allowed to bring:/n- One shoulder pet/n- 3 mutation lines (breeding pair, stack male & color stack - same as above)/n- 3 creatures of your choosing/n- 1 full gene scanner PER TRIBE/n- 1 BP of your choosing PER TRIBE/n- the same chibi/n/nBut here's the catch: You cannot use any of these creatures until you get to Extinction./nThat means that for Scorched Earth and Aberration, you'll be starting over with nothing but your same character./nFrom Extinction onward, we're allowed to have all of our creatures from previous maps. In the meantime, don't worry - your creatures will be kept safe in a vault with your name on it on another map until you get there.",
                     "imageurl": "https://i.imgur.com/Xo9Oudb.jpeg"
                 }
             },
@@ -73,18 +38,9 @@ From Extinction onward, we're allowed to have all of our creatures from previous
                     "layout": 1,
                     "buttontext": "FAQ",
                     "title1": "FAQ",
-                    "text1": "WHAT IS THE ULTIMATE ARK CHALLENGE?/n
-- If others ascend and go to the next server, what happens to the Island/previous map?/n
-Nothing. You will be able to continue to play on the Island until you defeat it and proceed to the next map. Once all players have defeated the Island, the server will be shut down and the map will be changed to the next one in the line of progression. Previous save data for the other maps won't be deleted; they'll be saved separately on the host machine.
-/n/n
-- Is there any reward for completing the challenge?/n
-The fun of it, primarily. Players who complete the challenge will be able to bring everything with them - player and creatures, BP's included, to the main cluster if they choose to do so.
-/n/n
-- After completing all the challenges can we transfer this character to the main Ravenhall cluster?/n
-Yes./n/n
-
-- I'd like to help out with server costs. Is there any way that I can contribute?/n
-If you're capable and willing, sure. More information in #donations. However, donation rewards will only count towards the cluster, not for Ultimate Ark. The only reward that I'll give UA players for donating is custom coloring creatures",
+                    "text1": "FAQ/n- If others ascend and go to the next server, what happens to the Island/previous map?/nNothing. You will be able to continue to play on the Island until you defeat it and proceed to the next map. Once all players have defeated the Island, the server will be shut down and the map will be changed to the next one in the line of progression. Previous save data for the other maps won't be deleted; they'll be saved separately on the host machine.
+/n/n- Is there any reward for completing the challenge?/nThe fun of it, primarily. Players who complete the challenge will be able to bring everything with them - player and creatures, BP's included, to the main cluster if they choose to do so.
+/n/n- After completing all the challenges can we transfer this character to the main Ravenhall cluster?/nYes./n/n- I'd like to help out with server costs. Is there any way that I can contribute?/nIf you're capable and willing, sure. More information in #donations. However, donation rewards will only count towards the cluster, not for Ultimate Ark. The only reward that I'll give UA players for donating is custom coloring creatures",
                     "imageurl": "https://i.imgur.com/uUYcPMt.jpeg"
                 }
             },
@@ -92,7 +48,7 @@ If you're capable and willing, sure. More information in #donations. However, do
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Player List",
-                    "title1": "Welcome to the Unleashed Ark",
+                    "title1": "Online Player List",
                     "text1": "{playerlist}",
                     "imageurl": "https://i.imgur.com/uUYcPMt.jpeg"
                 }
